@@ -1,0 +1,16 @@
+pyterrier
+transformers
+torch
+sklearn
+scipy
+gensim
+numpy
+pandas
+matplotlib
+math
+tqdm
+typing
+collections
+nltk
+re
+wordLlama
